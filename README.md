@@ -2,10 +2,9 @@
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 30%;
-            background-color:black">
+            width: 30%">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spo1lsp0rt)](https://git.io/streak-stats)
   
 </div>
 
