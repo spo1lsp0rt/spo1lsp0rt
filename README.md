@@ -4,7 +4,7 @@
             margin-right: auto;
             width: 30%">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spo1lsp0rt)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=spo1lsp0rt)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
