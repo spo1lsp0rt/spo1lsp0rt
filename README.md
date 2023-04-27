@@ -2,7 +2,8 @@
 
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 30%">
+            width: 30%;
+            background-color:black">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
