@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<div style="text-align: center;">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)(https://git.io/streak-stats)
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  
 </div>
 
 <!--
