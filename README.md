@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spo1lsp0rt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spo1lsp0rt&theme=tokyo-night)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spo1lsp0rt&theme=solarized_dark)
 
