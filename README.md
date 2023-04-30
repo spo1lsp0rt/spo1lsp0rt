@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=spo1lsp0rt)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **spo1lsp0rt/spo1lsp0rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
