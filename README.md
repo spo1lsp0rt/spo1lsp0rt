@@ -1,4 +1,4 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=spo1lsp0rt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spo1lsp0rt)](https://git.io/streak-stats)
 
 <!--
 **spo1lsp0rt/spo1lsp0rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
